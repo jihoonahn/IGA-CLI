@@ -2,6 +2,9 @@
 ```
 1회 IGA 발표에서 내용으로 Swift 를 이용해서 CommandLine Interface를 만드는 방법에 대한 예시 코드입니다.
 ```
+### Preview
+https://github.com/Jihoonahn/CLI-Starter/assets/68891494/0049c803-610c-4750-8c4e-65a8d5c172c4
+
 
 ### Installation
 ```
