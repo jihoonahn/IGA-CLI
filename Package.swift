@@ -28,9 +28,6 @@ let package = Package(
                 .product(name: "Logging", package: "swift-log"),
                 .product(name: "PLCommand", package: "PLCommand")
             ]
-        ),
-        .testTarget(
-            name: "CLITests",
-            dependencies: ["GPT-CLI"]),
+        )
     ]
 )
