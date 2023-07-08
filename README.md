@@ -4,7 +4,7 @@
 ```
 ### Preview
 
-https://github.com/Jihoonahn/CLI-Starter/assets/68891494/ba23e33d-8e85-4d28-bc35-8f9acc0ab5ec
+https://github.com/Jihoonahn/IGA-CLI/assets/68891494/78af2964-87f4-4870-af7e-68eb2c2480ba
 
 
 
